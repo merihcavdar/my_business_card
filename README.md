@@ -1,16 +1,11 @@
-# my_business_card
+# My Business Card
 
-A new Flutter project.
+a tiny app in Flutter for my businesscard
 
-## Getting Started
+## screenshot
+![mybusinesscard](https://github.com/merihcavdar/my_business_card/assets/84540989/bf20ecd0-543b-4286-9c95-305179195e31)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- CircleAvatar usage
+- asset, image, divider, layout design
+- ListTile widget
